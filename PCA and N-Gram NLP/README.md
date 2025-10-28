@@ -4,7 +4,9 @@ This project covered both Principle Component Analysis and N-Gram Natural langua
 
 ## Provided by instructors:
 image dataset for processing (celeba_60x50.npy and celeba_218x178x3.npy)
+
 N-Gram test and debugging tool(test_ngram.py)
+
 method structure and headers in pca.py
 
 ## personal contributions:
