@@ -4,7 +4,7 @@ This project involves predicting the number of days of ice coverage on lake Mend
 
 ## Provided by Instruction Team
 
-historic lake Mendota ice coverage dataset(ice_data.csv)
+historic lake Mendota ice coverage dataset (ice_data.csv)
 
 regression.py structure and partial implemenentation
 
