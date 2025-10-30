@@ -8,7 +8,7 @@ historic lake Mendota ice coverage dataset (ice_data.csv)
 
 regression.py structure and partial implemenentation
 
-## personal Contributions
+## personal contributions
 
 completed implementation of regression.py
 
