@@ -138,8 +138,6 @@ def train_model(model, train_loader, criterion, T):
 
 
 
-
-
 def evaluate_model(model, test_loader, criterion, show_loss = True):
     """
 
