@@ -1,0 +1,36 @@
+--Shallow Model--
+Train:
+Train Epoch: 0 Accuracy: 49038/60000 (81.73%) Loss: 0.502
+Train Epoch: 1 Accuracy: 51856/60000 (86.43%) Loss: 0.366
+Train Epoch: 2 Accuracy: 52666/60000 (87.78%) Loss: 0.327
+Train Epoch: 3 Accuracy: 53227/60000 (88.71%) Loss: 0.302
+Train Epoch: 4 Accuracy: 53618/60000 (89.36%) Loss: 0.283
+Train Epoch: 5 Accuracy: 54033/60000 (90.05%) Loss: 0.267
+Train Epoch: 6 Accuracy: 54300/60000 (90.5%) Loss: 0.253
+Train Epoch: 7 Accuracy: 54629/60000 (91.05%) Loss: 0.24
+Train Epoch: 8 Accuracy: 54780/60000 (91.3%) Loss: 0.232
+Train Epoch: 9 Accuracy: 55039/60000 (91.73%) Loss: 0.222
+Test:
+Average loss: 0.2289
+Accuracy: 91.19%
+
+--Deep Model--
+Train:
+Train Epoch: 0 Accuracy: 45535/60000 (75.89%) Loss: 0.646
+Train Epoch: 1 Accuracy: 51471/60000 (85.78%) Loss: 0.385
+Train Epoch: 2 Accuracy: 52444/60000 (87.41%) Loss: 0.339
+Train Epoch: 3 Accuracy: 53166/60000 (88.61%) Loss: 0.311
+Train Epoch: 4 Accuracy: 53592/60000 (89.32%) Loss: 0.29
+Train Epoch: 5 Accuracy: 53948/60000 (89.91%) Loss: 0.273
+Train Epoch: 6 Accuracy: 54255/60000 (90.42%) Loss: 0.259
+Train Epoch: 7 Accuracy: 54511/60000 (90.85%) Loss: 0.246
+Train Epoch: 8 Accuracy: 54724/60000 (91.21%) Loss: 0.237
+Train Epoch: 9 Accuracy: 55093/60000 (91.82%) Loss: 0.224
+Test:
+Average loss: 0.2316
+Accuracy: 91.16%
+
+Predict first image label:
+T-shirt/top: 99.99%
+Shirt: 0.01%
+Pullover: 0.0%
