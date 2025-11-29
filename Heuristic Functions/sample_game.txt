@@ -1,0 +1,119 @@
+Hello, this is Samaritan
+0:           
+1:           
+2:           
+3:           
+4:           
+   A B C D E
+b's turn
+Move (e.g. B3): B3
+0:           
+1:           
+2:           
+3:   b       
+4:           
+   A B C D E
+r moved at A0
+0: r         
+1:           
+2:           
+3:   b       
+4:           
+   A B C D E
+b's turn
+Move (e.g. B3): B0
+0: r b       
+1:           
+2:           
+3:   b       
+4:           
+   A B C D E
+r moved at C0
+0: r b r     
+1:           
+2:           
+3:   b       
+4:           
+   A B C D E
+b's turn
+Move (e.g. B3): B2
+0: r b r     
+1:           
+2:   b       
+3:   b       
+4:           
+   A B C D E
+r moved at B1
+0: r b r     
+1:   r       
+2:   b       
+3:   b       
+4:           
+   A B C D E
+b's turn
+Move (e.g. B3): C1
+0: r b r     
+1:   r b     
+2:   b       
+3:   b       
+4:           
+   A B C D E
+r moved at D0
+0: r b r r   
+1:   r b     
+2:   b       
+3:   b       
+4:           
+   A B C D E
+b's turn
+Move from (e.g. B3): C1
+Move to (e.g. B3): C2
+0: r b r r   
+1:   r       
+2:   b b     
+3:   b       
+4:           
+   A B C D E
+r moved from A0
+  to A1
+0:   b r r   
+1: r r       
+2:   b b     
+3:   b       
+4:           
+   A B C D E
+b's turn
+Move from (e.g. B3): C2
+Move to (e.g. B3): C3
+0:   b r r   
+1: r r       
+2:   b       
+3:   b b     
+4:           
+   A B C D E
+r moved from C0
+  to C1
+0:   b   r   
+1: r r r     
+2:   b       
+3:   b b     
+4:           
+   A B C D E
+b's turn
+Move from (e.g. B3): B0
+Move to (e.g. B3): C0
+0:     b r   
+1: r r r     
+2:   b       
+3:   b b     
+4:           
+   A B C D E
+r moved from D0
+  to D1
+0:     b     
+1: r r r r   
+2:   b       
+3:   b b     
+4:           
+   A B C D E
+AI wins! Game over.
